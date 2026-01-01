@@ -1,0 +1,87 @@
+city1,city2,distance
+Karachi,Faisalabad,1077
+Faisalabad,Peshawar,564
+Peshawar,Sukkur,889
+Sukkur,Larkana,98
+Larkana,Abbottabad,924
+Abbottabad,Lahore,476
+Lahore,Quetta,1003
+Quetta,Multan,706
+Multan,Rawalpindi,535
+Rawalpindi,Hyderabad,1405
+Hyderabad,Sargodha,749
+Sargodha,Islamabad,218
+Islamabad,Mardan,141
+Mardan,Gujranwala,139
+Gujranwala,Mirpurkhas,1267
+Mirpurkhas,Bahawalpur,771
+Bahawalpur,Kohat,678
+Kohat,Dera Ghazi Khan,306
+Dera Ghazi Khan,Chiniot,571
+Chiniot,Bannu,339
+Bannu,Muzaffarabad,317
+Muzaffarabad,Sialkot,294
+Sialkot,Jhelum,125
+Jhelum,Chaman,983
+Chaman,Charsadda,272
+Charsadda,Nawabshah,985
+Nawabshah,Attock,998
+Attock,Okara,305
+Okara,Gilgit,928
+Gilgit,Mirpur,267
+Mirpur,Gujrat,310
+Gujrat,Bagh,177
+Bagh,Khanewal,870
+Khanewal,Jhang,234
+Jhang,Turbat,1136
+Turbat,Sahiwal,1301
+Sahiwal,Haripur,360
+Haripur,Narowal,170
+Narowal,Karak,529
+Karak,Mansehra,287
+Mansehra,Sukheke,99
+Sukheke,Chakwal,267
+Chakwal,Mandi Bahauddin,173
+Mandi Bahauddin,Kasur,266
+Kasur,Toba Tek Singh,146
+Toba Tek Singh,Bahawalnagar,166
+Bahawalnagar,Bhakkar,261
+Bhakkar,Nowshera,222
+Nowshera,Charsadda,25
+Charsadda,Peshawar,30
+Peshawar,Nowshera,27
+Nowshera,Swabi,36
+Swabi,Mardan,32
+Mardan,Charsadda,30
+Charsadda,Takht Bhai,40
+Takht Bhai,Swabi,50
+Swabi,Topi,35
+Topi,Charsadda,45
+Charsadda,Attock City,55
+Attock City,Peshawar,70
+Peshawar,Hazro,75
+Hazro,Takht Bhai,80
+Takht Bhai,Buner,90
+Buner,Attock City,110
+Attock City,Haripur,105
+Haripur,Peshawar,100
+Peshawar,Battagram,135
+Battagram,Takht Bhai,120
+Takht Bhai,Torghar,130
+Torghar,Swabi,140
+Swabi,Abbottabad,130
+Abbottabad,Hangu,145
+Hangu,Charsadda,150
+Charsadda,Mansehra,155
+Mansehra,Takht Bhai,160
+Takht Bhai,Lachi,170
+Lachi,Swabi,180
+Swabi,Kohat,175
+Kohat,Charsadda,185
+Charsadda,Karak,195
+Karak,Takht Bhai,200
+Takht Bhai,Dera Ismail Khan,205
+Dera Ismail Khan,Attock City,215
+Attock City,Kohat,225
+Kohat,Mianwali,230
+Mianwali,Takht Bhai,240
