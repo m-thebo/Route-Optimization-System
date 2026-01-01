@@ -238,6 +238,8 @@ npm test
 
 ---
 
+![sc1](screenshots/image.png)
+
 ## Database Schema
 
 ### Cities Table
