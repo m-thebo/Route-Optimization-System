@@ -1,6 +1,7 @@
 # 🚚 Pharmaceutical Distribution & Route Optimization Platform
 
-> **A full-stack web application designed for optimizing pharmaceutical delivery routes across Pakistan's distribution network using advanced pathfinding algorithms.**
+> **A full-stack web application designed for optimizing pharmaceutical delivery routes across Pakistan's distribution network using advanced pathfinding algorithms.
+> NOTE: It currently has the data for only 61 cities but can be scaled.**
 
 ## Project Overview
 
